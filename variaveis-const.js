@@ -1,1 +1,0 @@
-const primeironome = "José"
